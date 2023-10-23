@@ -2,14 +2,12 @@
     {
         "id_mascota": 1,
         "descripcion_mascota": "Mascota1",
-        "foto_mascota": 1,
         "publicacion_mascota": "https://enlace1.com",
         "especie_mascota":"Perro"
     },
     {
         "id_mascota": 2,
         "descripcion_mascota": "Mascota2",
-        "foto_mascota": 2,
         "publicacion_mascota": "https://enlace2.com",
         "especie_mascota":"Perro"
     }
